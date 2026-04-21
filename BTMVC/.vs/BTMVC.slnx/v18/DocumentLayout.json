@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\PushGit\\BTMVCTaiLop\\BTMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{066B3FD4-8C55-BC64-864A-208EB174A08F}|BTMVC\\BTMVC.csproj|d:\\pushgit\\btmvctailop\\btmvc\\btmvc\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066B3FD4-8C55-BC64-864A-208EB174A08F}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066B3FD4-8C55-BC64-864A-208EB174A08F}|BTMVC\\BTMVC.csproj|d:\\pushgit\\btmvctailop\\btmvc\\btmvc\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066B3FD4-8C55-BC64-864A-208EB174A08F}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066B3FD4-8C55-BC64-864A-208EB174A08F}|BTMVC\\BTMVC.csproj|d:\\pushgit\\btmvctailop\\btmvc\\btmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066B3FD4-8C55-BC64-864A-208EB174A08F}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066B3FD4-8C55-BC64-864A-208EB174A08F}|BTMVC\\BTMVC.csproj|d:\\pushgit\\btmvctailop\\btmvc\\btmvc\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066B3FD4-8C55-BC64-864A-208EB174A08F}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066B3FD4-8C55-BC64-864A-208EB174A08F}|BTMVC\\BTMVC.csproj|d:\\pushgit\\btmvctailop\\btmvc\\btmvc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066B3FD4-8C55-BC64-864A-208EB174A08F}|BTMVC\\BTMVC.csproj|solutionrelative:btmvc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +47,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\PushGit\\BTMVCTaiLop\\BTMVC\\BTMVC\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "BTMVC\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\PushGit\\BTMVCTaiLop\\BTMVC\\BTMVC\\Models\\Enrollment.cs",
+              "RelativeToolTip": "BTMVC\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:55:18.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Section.cs",
+              "DocumentMoniker": "D:\\PushGit\\BTMVCTaiLop\\BTMVC\\BTMVC\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "BTMVC\\Models\\Section.cs",
+              "ToolTip": "D:\\PushGit\\BTMVCTaiLop\\BTMVC\\BTMVC\\Models\\Section.cs",
+              "RelativeToolTip": "BTMVC\\Models\\Section.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:54:41.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PushGit\\BTMVCTaiLop\\BTMVC\\BTMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BTMVC\\Models\\Student.cs",
+              "ToolTip": "D:\\PushGit\\BTMVCTaiLop\\BTMVC\\BTMVC\\Models\\Student.cs",
+              "RelativeToolTip": "BTMVC\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:54:21.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\PushGit\\BTMVCTaiLop\\BTMVC\\BTMVC\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "BTMVC\\Models\\Teacher.cs",
+              "ToolTip": "D:\\PushGit\\BTMVCTaiLop\\BTMVC\\BTMVC\\Models\\Teacher.cs",
+              "RelativeToolTip": "BTMVC\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:54:03.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\PushGit\\BTMVCTaiLop\\BTMVC\\BTMVC\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "BTMVC\\Models\\Course.cs",
+              "ToolTip": "D:\\PushGit\\BTMVCTaiLop\\BTMVC\\BTMVC\\Models\\Course.cs",
+              "RelativeToolTip": "BTMVC\\Models\\Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:53:30.655Z",
+              "EditorCaption": ""
             }
           ]
         }
