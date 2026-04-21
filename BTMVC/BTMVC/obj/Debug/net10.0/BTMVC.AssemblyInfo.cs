@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b5d2b1427e549621a619311eefc468d681f560e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cea2a2807ec6ebbe2c4c00436692aac0efa2456")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
